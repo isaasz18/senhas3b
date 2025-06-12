@@ -90,13 +90,12 @@ body{
     justify-content: center;
 }
 
-.parametro-senha-botoes{
+.parametro-senha__botao{
     background-color: var(--fundo-texto);
-    color: var(--branco);
+    color:var(--branco);
     border: 2px solid var(--borda);
     padding: 24px;
-    font-size: 24px; 
-
+    font-size: 24px;
 }
 
 .parametro-senha__texto{
@@ -106,7 +105,8 @@ body{
     margin: 0;
     font-size: 24px;
 }
-.checkbox {
+
+.checkbox{
     width: 20px;
     height: 20px;
     cursor: pointer;
